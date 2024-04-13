@@ -36,11 +36,7 @@ export default function () {
             officia cupidatat adipisicing labore ad et dolor dolor dolore fugiat
             in.
           </div>
-          <div className="grid grid-cols-5 mt-5 gap-x-2">
-            <div className="w-full h-4 bg-gray-400 rounded"></div>
-            <div className="w-full h-4 bg-red-400 rounded"></div>
-            <div className="w-full h-4 bg-blue-400 rounded"></div>
-          </div>
+          <div className="ml-auto mt-10 w-16 h-5 bg-white rounded"></div>
         </div>
       </div>
     );
@@ -55,11 +51,7 @@ export default function () {
             Non dolor nulla incididunt id exercitation dolore. Voluptate velit
             laborum veniam sit commodo. Enim occaecat amet eiusmod non fugiat.
           </div>
-          <div className="grid grid-cols-5 mt-5 gap-x-2">
-            <div className="w-full h-4 bg-green-400 rounded"></div>
-            <div className="w-full h-4 bg-gray-400 rounded"></div>
-            <div className="w-full h-4 bg-purple-400 rounded"></div>
-          </div>
+          <div className="ml-auto mt-10 w-16 h-5 bg-white rounded"></div>
         </div>
       </div>
     );
